@@ -2418,6 +2418,7 @@ blockquote p {
   font-weight: normal;
   text-transform: uppercase;
   margin-bottom: 40px;
+  color: black;
 }
 
 .img-shadow, .block-38 .block-38-header img {
